@@ -25,7 +25,8 @@ This analysis identifies trends involving depression, anxiety, panic attacks and
 
 ## Dashboard Preview
 
-(Add screenshot here)
+<img width="966" height="750" alt="Screenshot 2026-05-15 120508" src="https://github.com/user-attachments/assets/f48cadd7-641e-422a-8c2c-1404fc9f9d91" />
+
 
 ---
 
